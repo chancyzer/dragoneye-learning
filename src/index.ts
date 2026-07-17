@@ -1,2 +1,3 @@
-const message: string = 'Hello TypeScript';
-console.log(message);
+import "./basic/types";
+
+console.log("DragonEye Learning Start");
