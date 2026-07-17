@@ -4,11 +4,8 @@ node_modules/
 # build output
 dist/
 
-# TypeScript compiled files
-*.js
-*.js.map
-*.d.ts
-*.d.ts.map
+# TypeScript build output
+dist/
 
 # logs
 npm-debug.log*
